@@ -29,11 +29,11 @@ body {
     text-align: center;
 }
 
-.search--container {
+.container__search {
     padding: 2rem;
 }
 
-.search--container__input {
+.container__input {
     background: rgb(0, 110, 255);
     width: 2rem;
     height: 2rem;
@@ -48,7 +48,7 @@ body {
 
 }
 
-.search--container__input::placeholder {
+.container__input::placeholder {
     color: black;
 }
 
