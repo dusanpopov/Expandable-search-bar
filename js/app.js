@@ -1,5 +1,5 @@
-const searchBtn = document.querySelector(".search--container__button");
-const search = document.querySelector(".search--container__input");
+const searchBtn = document.querySelector(".container__button");
+const search = document.querySelector(".container__input");
 const tip = document.querySelector(".tip");
 
 
