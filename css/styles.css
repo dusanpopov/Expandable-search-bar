@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Sarabun', sans-serif;
-
 }
 
 html {
@@ -19,11 +18,9 @@ body {
     color: #fff;
 }
 
-
 .title {
     font-size: 6rem;
 }
-
 
 .container {
     text-align: center;
@@ -45,7 +42,6 @@ body {
     font-size: 1.6rem;
     outline: none;
     transition: width 1s ease;
-
 }
 
 .container__input::placeholder {
@@ -67,7 +63,6 @@ img {
     opacity: 0;
     transition: opacity 2s;
     margin-top: 1.5rem;
-
 }
 
 
@@ -80,5 +75,4 @@ img {
 .tip-style {
     visibility: visible;
     opacity: 1;
-
 }
